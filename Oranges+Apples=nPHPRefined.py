@@ -3,7 +3,8 @@ def IlanBaKailanganMo():
     Apples = int(input("Apples you wish to buy?: "))
     return Oranges, Apples
 
-
+# A more simple operation of the calculations presentation. I was stuck with this program for 3 hours because 
+# of a for loop I included in the function.
 def fruits():
     total = Val1*PresyoNgMgaPrutas[0] + Val2*PresyoNgMgaPrutas[1] 
     print(f"The total amount is {total}")
