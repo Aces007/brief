@@ -9,6 +9,8 @@ def fruits():
     print(f"The total amount is {total}")
 
 
+# These here are the prices provided for the oranges and apples respectively.
+# They are utilized for the function fruits() above ne
 PresyoNgMgaPrutas = [25, 20]
 
 

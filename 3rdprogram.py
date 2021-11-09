@@ -13,7 +13,7 @@ def calculations():
 def MagkanoLahatNgNagastosKo():
     print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")
 
-
+# Th
 PeraNaMeronKa, MagkanoApples = Survey()
 
 
