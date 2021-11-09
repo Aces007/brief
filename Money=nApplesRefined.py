@@ -3,7 +3,8 @@ def Survey():
     MagkanoBaYungMansanas = int(input("How much does the apple cost?:"))
     return PeraNaMeronkaNgayon, MagkanoBaYungMansanas
 
-
+# Like the 2nd program this function contains all the calculations necessary to present the apples you can 
+# buy and change to receive.
 def calculations():
     ApplesNaMabibiliMo = int(PeraNaMeronKa) // (MagkanoApples)
     MagkanoMatitiraSaPeraMo = int(PeraNaMeronKa) % (MagkanoApples)
