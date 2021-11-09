@@ -10,7 +10,7 @@ def fruits():
 
 
 # These here are the prices provided for the oranges and apples respectively.
-# They are utilized for the function fruits() above ne
+# They are utilized for the function fruits() above, necessary for calculating the total expenses.  
 PresyoNgMgaPrutas = [25, 20]
 
 

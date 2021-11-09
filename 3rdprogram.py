@@ -13,7 +13,8 @@ def calculations():
 def MagkanoLahatNgNagastosKo():
     print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")
 
-# Th
+# So, the last program I did these user inputs are separated, now for a more simpler presentation of the progam these were mixed together.
+# 1st Step: These two will ask for your current money
 PeraNaMeronKa, MagkanoApples = Survey()
 
 
