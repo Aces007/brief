@@ -21,5 +21,6 @@ PeraNaMeronKa, MagkanoApples = Survey()
 # as a result the prorgam will present you the amount of change you will get.
 MansanasYouAcquired, SukliMoAy = calculations()
 
-
+# Last Step: Lastly I decided to separate the print function from the calculations and user inputs to not cause confusion.
+# This will present you the apples you can buy with the money you currently have and the change you will receive from the expenses.
 MagkanoLahatNgNagastosKo()
