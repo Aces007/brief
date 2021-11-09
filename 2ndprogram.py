@@ -13,7 +13,7 @@ def fruits():
 # They are utilized for the function fruits() above, necessary for calculating the total expenses.  
 PresyoNgMgaPrutas = [25, 20]
 
-
+# 1st Step:s
 Val1, Val2 =  IlanBaKailanganMo()
 
 
