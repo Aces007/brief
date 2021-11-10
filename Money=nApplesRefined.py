@@ -17,7 +17,9 @@ def BudgetCalc():
         print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")
     elif MagkanoBudget == PeraNaMeronKa:
         print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")    
-    
+    else:
+        print("You lack the money to buy the apples") 
+
 
 # So, the last program I did these user inputs are separated, now for a more simpler presentation of the progam these were mixed together.
 # 1st Step: These two will ask for your current money, and the prices given for the apples you're willing to buy.
