@@ -15,6 +15,8 @@ def calculations():
 def BudgetCalc():
     if MagkanoBudget < PeraNaMeronKa:
         print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")
+    elif MagkanoBudget == PeraNaMeronKa:
+        print(f"You can buy {MansanasYouAcquired} apples and your change is {SukliMoAy}")    
     
 
 # So, the last program I did these user inputs are separated, now for a more simpler presentation of the progam these were mixed together.
