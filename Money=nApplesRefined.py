@@ -23,6 +23,7 @@ def BudgetCalc():
 
 # So, the last program I did these user inputs are separated, now for a more simpler presentation of the progam these were mixed together.
 # 1st Step: These two will ask for your current money, and the prices given for the apples you're willing to buy.
+# As an addition: I added the question about your budget, this will determine if you are able to buy the apples.
 PeraNaMeronKa, MagkanoApples, MagkanoBudget = Survey()
 
 # 2ndStep: Then these will perform the calculations of the number of apples that you can buy with your money and 
@@ -30,5 +31,7 @@ PeraNaMeronKa, MagkanoApples, MagkanoBudget = Survey()
 MansanasYouAcquired, SukliMoAy = calculations()
 
 # Last Step: Lastly I decided to separate the print function from the calculations and user inputs to not cause confusion.
-# This will present you the apples you can buy with the money you currently have and the change you will receive from the expenses.
+# This will present you if you lack the money for your budget or you satisfy the conditions for buying the apples 
+# with the money you currently have and then present you with the number of apples you bought including change or if you were not able 
+# to buy the apples at all.
 BudgetCalc()
